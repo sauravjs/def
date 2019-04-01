@@ -1,0 +1,5 @@
+x=27
+a=x%26
+b=x/26+1
+k=chr(64+a)
+print(k*b)bvhg
